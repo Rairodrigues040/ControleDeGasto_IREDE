@@ -72,18 +72,10 @@ com.rai.gasto
 
 🧠 Uso de Inteligência Artificial
 
-Durante o ciclo de desenvolvimento, ferramentas de Inteligência Artificial generativa, especificamente ChatGPT e Google Gemini, foram utilizadas como assistentes de codificação com os seguintes propósitos:
+Durante o desenvolvimento do projeto, ferramentas de Inteligência Artificial generativa, como ChatGPT e Google Gemini, foram utilizadas como apoio técnico no processo de construção do aplicativo.
 
-Estruturação de Boilerplate: Auxílio na criação rápida das estruturas de classes de dados (Entidades e DAOs).
-Resolução de Bugs no Room: Suporte na implementação correta da leitura assíncrona do Room Database utilizando Kotlin Flows e Coroutines, garantindo que a tela (UI) fosse atualizada em tempo real sempre que uma nova despesa fosse inserida ou deletada.
-Refatoração de Arquitetura: Orientação na reorganização final de pastas, isolando estados de UI e Views em pacotes separados da camada de dados (data), aderindo de forma estrita ao padrão MVVM.
+Essas ferramentas auxiliaram principalmente na estruturação inicial do projeto e na melhor compreensão e aplicação do Room Database, especialmente no uso de consultas reativas e integração com ViewModel.
 
-🚀 Implementações Futuras
+Além disso, a IA contribuiu como suporte na tomada de decisões relacionadas à organização da arquitetura MVVM, ajudando a manter uma separação mais clara entre as camadas de apresentação, domínio e dados, além de melhorar a qualidade e consistência do código produzido.
 
-Embora o aplicativo cumpra seu objetivo principal para esta entrega, diversas funcionalidades estão planejadas para escalar o projeto futuramente:
 
-Edição de Gastos (Update): Adicionar a funcionalidade de alterar o valor, a categoria ou a descrição de uma despesa já registrada, completando o ciclo CRUD.
-Gestão de Categorias Personalizadas: Permitir que o usuário crie, edite e escolha as cores e os ícones de suas próprias categorias.
-Gráficos e Relatórios Visuais: Inserir gráficos (como gráficos de pizza ou barras) no Dashboard para ilustrar a porcentagem de gastos em cada categoria.
-Definição de Limites (Budgets): Possibilidade de estipular um teto de gastos mensal e receber alertas visuais ao se aproximar dele.
-Exportação de Dados: Funcionalidade para exportar o histórico de despesas para formatos como PDF ou CSV para controle externo.
