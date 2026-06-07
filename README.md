@@ -65,7 +65,6 @@ com.rai.gasto
 ├── rotas/              # Configuração do Navigation Compose
 └── ui/                 # Camada de Apresentação (View)
     ├── componente/     # Componentes reutilizáveis (Card, Chips, Itens de Lista)
-    ├── feature/
-    │   ├── home/       # Agrupamento da Home (Screen, ViewModel, Factory, UiState)
-    │   └── adicionar/  # Agrupamento da Adição (Screen, ViewModel, Factory, UiState)
+    ├── home/       # Agrupamento da Home (Screen, ViewModel, Factory, UiState)
+    ├── adicionar/  # Agrupamento da Adição (Screen, ViewModel, Factory, UiState)
     └── theme/          # Tipografia, Cores e Tema do Compose
