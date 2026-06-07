@@ -68,6 +68,7 @@ com.rai.gasto
     ├── home/       # Agrupamento da Home (Screen, ViewModel, Factory, UiState)
     ├── adicionar/  # Agrupamento da Adição (Screen, ViewModel, Factory, UiState)
     └── theme/          # Tipografia, Cores e Tema do Compose
+````
 
 🧠 Uso de Inteligência Artificial
 
