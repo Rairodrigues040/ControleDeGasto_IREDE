@@ -38,8 +38,6 @@ O aplicativo é um gerenciador financeiro simples e direto, desenhado para regis
 
 </div>
 
-> **Nota:** *Para visualizar as imagens no repositório local, certifique-se de que os arquivos estão salvos na pasta `assets/`.*
-
 ---
 
 ## ✅ Requisitos Técnicos Obrigatórios (Atendidos)
