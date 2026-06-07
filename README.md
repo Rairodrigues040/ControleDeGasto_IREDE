@@ -31,15 +31,10 @@ O aplicativo é um gerenciador financeiro simples e direto, desenhado para regis
 ### Telas do Aplicativo
 
 <div align="center">
-  <img width="335" height="685" alt="Captura de tela 2026-06-07 185055" src="https://github.com/user-attachments/assets/29235ad7-074a-4ab5-8886-cc31842ed563" />
-  <img width="337" height="679" alt="Captura de tela 2026-06-07 185106" src="https://github.com/user-attachments/assets/36057383-9079-49ee-a09b-110c62d00496" />
-  <img width="339" height="686" alt="Captura de tela 2026-06-07 185132" src="https://github.com/user-attachments/assets/67e5574e-becd-4a80-ab9c-f569c47351fd" />
-  <img width="336" height="691" alt="Captura de tela 2026-06-07 185140" src="https://github.com/user-attachments/assets/ea562eba-3a42-4fe7-a625-f259e821a1d4" />
-  <img width="333" height="679" alt="Captura de tela 2026-06-07 185206" src="https://github.com/user-attachments/assets/6b9fafe2-6ea9-4b86-bc30-72547ef5f84c" />
-  <img width="332" height="694" alt="Captura de tela 2026-06-07 185211" src="https://github.com/user-attachments/assets/3831d8b7-3312-4dc5-9a1e-5d247d9e8916" />
-  <img width="337" height="681" alt="Captura de tela 2026-06-07 185219" src="https://github.com/user-attachments/assets/47db9389-7ff7-454b-9239-4662190c6629" />
-  <img width="333" height="695" alt="Captura de tela 2026-06-07 185225" src="https://github.com/user-attachments/assets/bd17ded5-7910-48b5-92a6-1ab6e0e0cb3a" />
-  <img width="370" height="754" alt="Captura de tela 2026-06-07 185036" src="https://github.com/user-attachments/assets/5da2ba8d-2e31-4ab2-9fd6-05ec91f6b85c" />
+ ![Uploading Captura de tela 2026-06-07 185140.png…]()
+![Uploading Captura de tela 2026-06-07 185132.png…]()
+<img width="335" height="685" alt="Captura de tela 2026-06-07 185055" src="https://github.com/user-attachments/assets/118375e9-961c-4401-94bd-f446a63d6f11" />
+
 
 </div>
 
