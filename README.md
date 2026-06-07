@@ -68,3 +68,21 @@ com.rai.gasto
     ├── home/       # Agrupamento da Home (Screen, ViewModel, Factory, UiState)
     ├── adicionar/  # Agrupamento da Adição (Screen, ViewModel, Factory, UiState)
     └── theme/          # Tipografia, Cores e Tema do Compose
+
+🧠 Uso de Inteligência Artificial
+
+Durante o ciclo de desenvolvimento, ferramentas de Inteligência Artificial generativa, especificamente ChatGPT e Google Gemini, foram utilizadas como assistentes de codificação com os seguintes propósitos:
+
+Estruturação de Boilerplate: Auxílio na criação rápida das estruturas de classes de dados (Entidades e DAOs).
+Resolução de Bugs no Room: Suporte na implementação correta da leitura assíncrona do Room Database utilizando Kotlin Flows e Coroutines, garantindo que a tela (UI) fosse atualizada em tempo real sempre que uma nova despesa fosse inserida ou deletada.
+Refatoração de Arquitetura: Orientação na reorganização final de pastas, isolando estados de UI e Views em pacotes separados da camada de dados (data), aderindo de forma estrita ao padrão MVVM.
+
+🚀 Implementações Futuras
+
+Embora o aplicativo cumpra seu objetivo principal para esta entrega, diversas funcionalidades estão planejadas para escalar o projeto futuramente:
+
+Edição de Gastos (Update): Adicionar a funcionalidade de alterar o valor, a categoria ou a descrição de uma despesa já registrada, completando o ciclo CRUD.
+Gestão de Categorias Personalizadas: Permitir que o usuário crie, edite e escolha as cores e os ícones de suas próprias categorias.
+Gráficos e Relatórios Visuais: Inserir gráficos (como gráficos de pizza ou barras) no Dashboard para ilustrar a porcentagem de gastos em cada categoria.
+Definição de Limites (Budgets): Possibilidade de estipular um teto de gastos mensal e receber alertas visuais ao se aproximar dele.
+Exportação de Dados: Funcionalidade para exportar o histórico de despesas para formatos como PDF ou CSV para controle externo.
