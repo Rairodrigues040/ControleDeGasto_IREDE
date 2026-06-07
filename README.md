@@ -31,9 +31,9 @@ O aplicativo é um gerenciador financeiro simples e direto, desenhado para regis
 ### Telas do Aplicativo
 
 <div align="center">
- ![Uploading Captura de tela 2026-06-07 185140.png…]()
-![Uploading Captura de tela 2026-06-07 185132.png…]()
-<img width="335" height="685" alt="Captura de tela 2026-06-07 185055" src="https://github.com/user-attachments/assets/118375e9-961c-4401-94bd-f446a63d6f11" />
+ <img width="339" height="686" alt="Captura de tela 2026-06-07 185132" src="https://github.com/user-attachments/assets/d4abb798-e08a-46dd-b5ef-e9c7e272d021" />
+ <img width="336" height="691" alt="Captura de tela 2026-06-07 185140" src="https://github.com/user-attachments/assets/571b633a-ea3c-46a7-9d89-7e35c4220f61" />
+ <img width="335" height="685" alt="Captura de tela 2026-06-07 185055" src="https://github.com/user-attachments/assets/118375e9-961c-4401-94bd-f446a63d6f11" />
 
 
 </div>
